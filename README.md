@@ -1,6 +1,6 @@
 # HMPT_experiments
 
-This repository provides program code to run the SMC algorithm proposed in Awaya and Ma (2022) under the settings of Section 5 (numerical experiments). 
+This repository provides program code to run the SMC algorithm proposed in Awaya and Ma (2022) under the settings of the numerical experiments. 
 
 The detailed information is provided in
 
