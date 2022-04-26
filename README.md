@@ -1,12 +1,12 @@
 # HMPT_experiments
 
-This repository provides program codes to run the SMC algorithm proposed in Awaya and Ma (2022) under the settings of Section 5 (numerical experiments). 
+This repository provides program code to run the SMC algorithm proposed in Awaya and Ma (2022) under the settings of Section 5 (numerical experiments). 
 
 The detailed information is provided in
 
 Awaya, N., & Ma, L. (2020). Hidden Markov P\'olya trees for high-dimensional distributions. arXiv preprint arXiv:2011.03121.
 
-To run the codes, the R package `SMCMP` needs to be installed  using `devtools` as follows:
+To run the program, the R package `SMCMP` needs to be installed  using `devtools` as follows:
 
 ```
 library(devtools)
